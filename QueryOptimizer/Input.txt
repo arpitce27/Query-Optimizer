@@ -1,0 +1,2 @@
+[Join t1 t2, Join temp1 t3, Project temp2, Groupby temp3]
+[Join t1 t3, Join t1 temp1, Join t2 temp2, Project temp3, Group temp4]
